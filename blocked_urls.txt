@@ -1,5 +1,3 @@
 db.no
 www.db.no
 www.dagbladet.no
-seher.no
-www.seher.no
