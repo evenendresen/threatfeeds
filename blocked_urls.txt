@@ -1,3 +1,4 @@
 db.no
 www.db.no
+dagbladet.no
 www.dagbladet.no
